@@ -1,0 +1,16 @@
+#!/usr/bin/env zsh
+
+# -----------------------------------------------------------------------------
+# "THE BEER-WARE LICENSE" (Revision 42):
+# <bonecrusher@covenofchaos.com>  wrote this file.  As long as  you retain this
+# notice you can do whatever you want with this stuff.  If we meet some day and
+# you think this stuff is worth it, you can buy me a beer in return.
+#  > BoneCrusher <
+# -----------------------------------------------------------------------------
+
+brew update
+brew install openssl
+ln -s /usr/local/opt/openssl/lib/libcrypto.1.0.0.dylib /usr/local/lib/
+ln -s /usr/local/opt/openssl/lib/libssl.1.0.0.dylib /usr/local/lib/
+
+echo "download installer and install manually https://go.microsoft.com/fwlink/?LinkID=827526"

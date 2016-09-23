@@ -1,0 +1,16 @@
+
+export packages=(
+  atom-typescript
+  dash
+  webbox-color
+  typescript
+  advanced-open-file
+  atom-terminal-panel
+  atom-yeoman
+  json-schema
+  language-vue-component
+  linter
+  seti-syntax
+  seti-ui
+  xml-formatter
+)

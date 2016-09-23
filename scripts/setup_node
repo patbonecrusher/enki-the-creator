@@ -1,0 +1,20 @@
+#!/usr/bin/env zsh
+
+# -----------------------------------------------------------------------------
+# "THE BEER-WARE LICENSE" (Revision 42):
+# <bonecrusher@covenofchaos.com>  wrote this file.  As long as  you retain this
+# notice you can do whatever you want with this stuff.  If we meet some day and
+# you think this stuff is worth it, you can buy me a beer in return.
+#  > BoneCrusher <
+# -----------------------------------------------------------------------------
+[[ -z $1 ]] && { echo "You must specify a config file"; exit -1; }
+
+source $1
+
+# VALIDATE CONFIG
+
+for package in "${packages[@]}"
+do
+  echo 'installing ' "${package}"
+  npm install -g "${package}" > /dev/null
+done

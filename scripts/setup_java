@@ -1,0 +1,14 @@
+#!/usr/bin/env zsh
+
+# -----------------------------------------------------------------------------
+# "THE BEER-WARE LICENSE" (Revision 42):
+# <bonecrusher@covenofchaos.com>  wrote this file.  As long as  you retain this
+# notice you can do whatever you want with this stuff.  If we meet some day and
+# you think this stuff is worth it, you can buy me a beer in return.
+#  > BoneCrusher <
+# -----------------------------------------------------------------------------
+
+jenv add /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home
+jenv global 1.7
+
+# echo 'eval "$(jenv init -)"' >> ~/.bash_profile

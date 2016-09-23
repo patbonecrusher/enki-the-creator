@@ -1,0 +1,38 @@
+# global development helper apps
+dev_helper=(
+  http-server             # serves the content of a folder (https://github.com/indexzero/http-server)
+  yo                      # scafolder (http://yeoman.io/)
+  babel-cli               # run babel from cli (https://babeljs.io/)
+  typescript              # the typescript compiler
+  license-checker         # lists packages licence for a specific project
+  live-server             # serves content with live-reload capability
+  mancy                   # javascript repl (playground)
+  node-inspector          # debugger
+  nodemon                 # reload node on changes
+)
+
+# os related tasks helper apps
+os_cli_tools=(
+  wifi-password-cli       # print wifi password (https://github.com/kevva/wifi-password-cli)
+  cpy-cli                 # nice cp replacement (https://github.com/sindresorhus/cpy-cli)
+  empty-trash-cli         # empty the trash (https://github.com/sindresorhus/empty-trash-cli)
+  browser-run             # cat any output to a browser (https://github.com/juliangruber/browser-run)
+  fkill-cli               # better kill
+  iponmap                 # shows the trace to get to an ip address on a map
+  public-ip-cli           # print public ip address
+  trash-cli               # safely move something to the trash can (unlike rm)
+  vtop                    # console activity monitor
+)
+
+# yeoman generators
+yo_generators=(
+  express-generator       # scaffold an express node app
+  generator-karma         # scaffold a karma project
+  generator-node-cli      # scaffold a node client app
+)
+
+export packages=(
+  "${dev_helper[@]}"
+  "${os_cli_tools[@]}"
+  "${yo_generators[@]}"
+)

@@ -1,0 +1,5 @@
+
+export packages=(
+  lolcat
+  polarbear
+)
