@@ -9,6 +9,7 @@ dev_helper=(
   mancy                   # javascript repl (playground)
   node-inspector          # debugger
   nodemon                 # reload node on changes
+  phantomjs               # javascript repl
 )
 
 # os related tasks helper apps
