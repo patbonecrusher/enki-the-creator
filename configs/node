@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # global development helper apps
 dev_helper=(
   npm                     # we need to install latest as node ships with old version
