@@ -1,5 +1,6 @@
 # global development helper apps
 dev_helper=(
+  npm                     # we need to install latest as node ships with old version
   http-server             # serves the content of a folder (https://github.com/indexzero/http-server)
   yo                      # scafolder (http://yeoman.io/)
   babel-cli               # run babel from cli (https://babeljs.io/)
