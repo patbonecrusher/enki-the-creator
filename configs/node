@@ -9,7 +9,6 @@ dev_helper=(
   typescript              # the typescript compiler
   license-checker         # lists packages licence for a specific project
   live-server             # serves content with live-reload capability
-  mancy                   # javascript repl (playground)
   node-inspector          # debugger
   nodemon                 # reload node on changes
   phantomjs               # javascript repl
