@@ -22,6 +22,8 @@ $ git clone https@github.com:patbonecrusher/enki-the-creator.git
 $ cd enki-the-creator && ./setup.sh
 ```
 
+## Manual:
+	- https://github.com/cnstntn-kndrtv/open-in-buttons-for-finder-toolbar
 
 ## Related Repositories
 - [My DotFiles](https://github.com/patbonecrusher/enki-the-crafty)
