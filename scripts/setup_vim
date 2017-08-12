@@ -12,9 +12,15 @@
 source $1
 
 # VALIDATE CONFIG
+curl -sL https://raw.githubusercontent.com/egalpin/apt-vim/master/install.sh | sh
 
 for package in "${packages[@]}"
 do
   echo 'installing ' "${package}"
-  apt-vim install -y "${package}" > /dev/null
+  ~/.vimpkg/bin/apt-vim install -y "${package}" > /dev/null
 done
+
+(cd ~/.vimpkg/bundle/YouCompleteMe && git submodule update --init --recursive)
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
+vim +PluginInstall +qall
