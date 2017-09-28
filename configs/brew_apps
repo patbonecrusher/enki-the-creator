@@ -1,71 +1,48 @@
-mas 'Pocket', id: 568494494
-mas 'Twitter', id: 409789998
-mas 'LastPass', id: 926036361
-mas 'MacFamilyTree 7', id: 572280828
-mas '2048 Game', id: 871033113
-mas 'DrawnStrips Reader', id: 473092872
-mas 'CHM Reader', id: 424182884
-tap 'aspnet/dnx'
-tap 'caskroom/cask'
-tap 'caskroom/versions'
-tap 'homebrew/bundle'
-tap 'homebrew/core'
-tap 'tomanthony/brews'
-mas 'Stache', id: 870659406
-mas 'PaintCode', id: 808809998
-mas 'More Info', id: 1090760166
-mas 'Paw', id: 584653203
-mas 'JSONEditor', id: 717009855
-mas 'Dash', id: 449589707
-mas 'Slack', id: 803453959
-mas 'Moom', id: 419330170
-mas 'SQLiteClient', id: 764623073
-mas 'iMovie', id: 408981434
-mas 'Wunderlist', id: 410628904
-mas 'Domain Check', id: 1086590014
-mas 'SketchBook', id: 863486266
-mas 'OneDrive', id: 823766827
-mas 'SQLPro for SQLite Read-Only', id: 635299994
-mas 'UTC and Local Time', id: 1062760018
-mas 'Install 10.12 Developer Preview', id: 1073243506
-mas 'Full Deck Solitaire', id: 412980789
-mas '1Password', id: 443987910
-mas 'Mactracker', id: 430255202
-mas 'Declutter', id: 950644971
-mas 'Scapple', id: 568020055
-mas 'Sip', id: 507257563
-mas 'Wallble Pro', id: 524191494
-mas 'MindMaple', id: 731829889
-mas 'Window Tidy', id: 456609775
-mas 'Unclutter', id: 577085396
-mas 'Microsoft Remote Desktop', id: 715768417
-mas 'Moonlight Mahjong', id: 438072162
-mas 'Gapplin', id: 768053424
-mas 'DaisyDisk', id: 411643860
-mas 'Yoink', id: 457622435
-mas 'iota-calc', id: 412603693
-mas 'Xcode', id: 497799835
-mas '♡ Sudoku', id: 408896152
-mas 'Math Minion', id: 506395659
-mas 'PixelStick', id: 415158530
-mas 'GarageBand', id: 682658836
-mas 'Jigsaws Galore', id: 426250075
-mas 'Kindle', id: 405399194
-mas 'Pages', id: 409201541
-mas 'Wallpapers HD', id: 443512640
-mas 'Numbers', id: 409203825
-mas 'Euclid', id: 656423396
-mas 'Foobar', id: 956507502
-mas 'Converto', id: 576421334
-mas 'SnippetsLab', id: 1006087419
-mas 'Pixelmator', id: 407963104
-mas 'Debit & Credit', id: 882637653
-mas 'SonicWALL Mobile Connect', id: 822514576
-mas 'Magnet', id: 441258766
-mas 'Keynote', id: 409183694
-mas 'Evernote', id: 406056744
-mas 'CodeRunner', id: 433335799
-mas 'Skitch', id: 425955336
-mas 'PDF Reader', id: 615956269
-mas 'JSON Toolbox', id: 525015412
-mas 'JSON Query', id: 953006734
+mas "1Password", id: 443987910
+mas "Any Free PDF to JPG Converter", id: 683160697
+mas "Bear", id: 1091189122
+mas "Blackmagic Disk Speed Test", id: 425264550
+mas "CHM Reader", id: 424182884
+mas "Clear Day", id: 411543336
+mas "Clocker", id: 1056643111
+mas "Converto", id: 576421334
+mas "Euclid", id: 656423396
+mas "Evernote", id: 406056744
+mas "Full Deck Solitaire", id: 412980789
+mas "iota-calc", id: 412603693
+mas "Jigsaws Galore", id: 426250075
+mas "JSON Query", id: 953006734
+mas "JSON Toolbox", id: 525015412
+mas "JSONEditor", id: 717009855
+mas "Keynote", id: 409183694
+mas "Kindle", id: 405399194
+mas "LastPass", id: 926036361
+mas "MacFamilyTree 8", id: 1037755919
+mas "Mactracker", id: 430255202
+mas "Magnet", id: 441258766
+mas "MenuBar Stats", id: 714196447
+mas "Microsoft Remote Desktop", id: 715768417
+mas "MindMaple", id: 731829889
+mas "Numbers", id: 409203825
+mas "OneDrive", id: 823766827
+mas "Pages", id: 409201541
+mas "Paper", id: 1143513744
+mas "Pixelmator", id: 407963104
+mas "PixelStick", id: 415158530
+mas "Place To Write", id: 1095401791
+mas "Pocket", id: 568494494
+mas "Scapple", id: 568020055
+mas "Sip", id: 507257563
+mas "Slack", id: 803453959
+mas "SnippetsLab", id: 1006087419
+mas "SonicWall Mobile Connect", id: 822514576
+mas "Spark", id: 1176895641
+mas "The Clock", id: 488764545
+mas "Trello", id: 1278508951
+mas "Unclutter", id: 577085396
+mas "UTC and Local Time", id: 1062760018
+mas "Vectr", id: 1204645754
+mas "Wallpapers HD", id: 443512640
+mas "Weather Dock", id: 571197687
+mas "Xcode", id: 497799835
+mas "Yoink", id: 457622435
