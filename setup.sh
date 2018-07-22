@@ -8,6 +8,9 @@
 #  > BoneCrusher <
 # -----------------------------------------------------------------------------
 
+curl -L https://iterm2.com/shell_integration/zsh \
+-o ~/.iterm2_shell_integration.zsh
+
 mydir=${0:a:h}
 config_dir=${mydir}/../configs
 
